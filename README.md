@@ -16,6 +16,7 @@
           <li>Researching <b>Natural Language Processing</b></li>
           <li>Open to research collaborations 🤝</li>
           <li>Loves cats 🐱 and anime 🎥</li>
+          <li>Visit my <a href="https://tariquzzamanf.github.io/">website</a>a></li>
         </ul>
       </td>
       <td>
