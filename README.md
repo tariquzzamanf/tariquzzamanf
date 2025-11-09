@@ -15,7 +15,6 @@
           <li>Junior Lecturer at <a href="https://www.iutoic-dhaka.edu">Islamic University of Technology (IUT)</a></li>
           <li>Researching <b>Natural Language Processing</b></li>
           <li>Open to research collaborations 🤝</li>
-          <li>Loves cats 🐱 and anime 🎥</li>
           <li>Visit my <a href="https://tariquzzamanf.github.io/">website</a></li>
         </ul>
       </td>
@@ -38,4 +37,4 @@
 </div>
 
 ### My Interests 💜
-I am particularly interested in **Natural Language Processing**, **Deep Learning**, and **Language Modeling**. In my free time, I enjoy exploring anime and spending time with cats.
+I am particularly interested in **Natural Language Processing**, **Deep Learning**, and **Language Modeling**. 
